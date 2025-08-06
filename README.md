@@ -33,7 +33,7 @@ A smart and affordable attendance system built using the **ESP32**, **RFID (RC52
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -80,7 +80,7 @@ python logger.py
 
 ---
 
-## 🗃️ SD Card Data Format
+## SD Card Data Format
 
 The system logs data in a file on the SD card named `attendance.csv` with the following format:
 
@@ -109,12 +109,12 @@ RFID-Based-Attendance-System/
 
 ---
 
-## 🛠️ Future Improvements
+## Future Improvements
 
-* 📡 Connect to Firebase or MySQL for cloud storage
-* 🌐 Create a web dashboard to view attendance reports
-* 🔔 Add buzzer or OLED for real-time feedback
-* 📱 Integrate with mobile apps for notifications
+* Connect to Firebase or MySQL for cloud storage
+* Create a web dashboard to view attendance reports
+* Add buzzer or OLED for real-time feedback
+* Integrate with mobile apps for notifications
 
 ---
 
@@ -124,15 +124,16 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! If you’d like to add features or fix bugs, please open an issue first to discuss the changes.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Have suggestions or questions?
 
 * Open an issue on GitHub
 * Start a discussion in the repo
+
