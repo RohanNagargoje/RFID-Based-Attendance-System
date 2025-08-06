@@ -1,8 +1,3 @@
-Absolutely! Here’s your cleaned-up `README.md` with **all icons removed** — professional and straightforward:
-
----
-
-```markdown
 # RFID-Based Attendance System (ESP32 + SD Card + RTC + Python)
 
 A smart and affordable attendance system built using the ESP32, RFID (RC522), RTC module (DS3231/DS1307), and an SD card to log attendance data. This system is designed for offline use and can later be expanded to support online databases or dashboards. A Python-based backend is optionally included for local data logging and future integrations.
@@ -165,3 +160,4 @@ Have suggestions or questions?
 
 Let me know when you're ready to move on to the **Python logger script**, **wiring table**, or anything else.
 ```
+
