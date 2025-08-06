@@ -27,7 +27,7 @@ A smart and affordable attendance system built using the **ESP32**, **RFID (RC52
 
 ---
 
-## 🖼System Overview
+## System Overview
 
 > You can find diagrams and visuals in the `docs/` folder once added.
 
@@ -136,4 +136,5 @@ Have suggestions or questions?
 
 * Open an issue on GitHub
 * Start a discussion in the repo
+
 
