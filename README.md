@@ -1,20 +1,20 @@
-# 📡 RFID-Based Attendance System (ESP32 + SD Card + Python)
+# RFID-Based Attendance System (ESP32 + SD Card + Python)
 
 A smart and affordable attendance system built using the **ESP32**, **RFID (RC522)**, and an **SD card** to log attendance data. This system is designed for offline use and can later be expanded to support online databases or dashboards. A Python-based backend is optionally included for local data logging and future integrations.
 
 ---
 
-## 🔧 Features
+## Features
 
-- 📶 RFID card scanning via RC522 module
-- 💾 Logs attendance data to SD card in CSV format
-- 🧠 Optional Python backend for storing data in SQLite
-- 🌐 Designed to be extended to cloud storage or web dashboards
-- ⚡ Fast, reliable, and fully offline capable
+- RFID card scanning via RC522 module
+- Logs attendance data to SD card in CSV format
+- Optional Python backend for storing data in SQLite
+- Designed to be extended to cloud storage or web dashboards
+- Fast, reliable, and fully offline capable
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Component       | Details                      |
 |----------------|------------------------------|
@@ -27,15 +27,7 @@ A smart and affordable attendance system built using the **ESP32**, **RFID (RC52
 
 ---
 
-## 🖼️ System Overview
-
-```
-
-\[RFID Tag] → \[RC522 Reader] → \[ESP32] → \[SD Card]
-↘
-\[Serial → Python] → \[SQLite DB]
-
-````
+## 🖼System Overview
 
 > You can find diagrams and visuals in the `docs/` folder once added.
 
@@ -144,10 +136,3 @@ Have suggestions or questions?
 
 * Open an issue on GitHub
 * Start a discussion in the repo
-
-```
-
----
-
-Let me know when you're ready to move on to the next part — **firmware**, **Python backend**, or anything else!
-```
